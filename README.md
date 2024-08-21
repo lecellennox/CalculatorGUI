@@ -16,7 +16,7 @@ This project creates a basic calculator with a GUI that allows the user to input
 - ActionListener
 
 ## Requirements
-- JDK 9 or later. Java is required to run this application.
+- JDK 8 or later. Java is required to run this application.
 
 ## Example
 - Input 1: 3
