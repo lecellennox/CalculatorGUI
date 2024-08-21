@@ -1,11 +1,11 @@
 Lecel Lennox, Advance Java Programming COP2805C, CRN 31038
 
 # Simple Calculator
-This project creates a basic calculator with a GUI that allows the user to input two numbers and select an arithmetic operation (Add, Subtract, Multiply, or Divide) using a dropdown menu. When the "Calculate" button is clicked, the result of the selected operation is displayed on the screen.
+This project aims to construct a basic calculator that can perform addition, subtraction, multiplication, and division. This calculator has a graphical user interface (GUI) that allows users to enter two values and pick the required operation using a dropdown menu. Clicking the "Calculate" button displays the result of the selected operation on the screen. 
 
 ## Features
 - Arithmetic Operations
-- Simple Interface 
+- Graphical User Interface 
 - Event Handling
 - Dynamic Result Display
 
